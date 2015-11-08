@@ -1,0 +1,9 @@
+c:\users\айрон\documents\visual studio 2015\Projects\TextAnalizer\TextAnalizer\bin\Debug\TextAnalizer.exe.config
+c:\users\айрон\documents\visual studio 2015\Projects\TextAnalizer\TextAnalizer\bin\Debug\TextAnalizer.exe
+c:\users\айрон\documents\visual studio 2015\Projects\TextAnalizer\TextAnalizer\bin\Debug\TextAnalizer.pdb
+c:\users\айрон\documents\visual studio 2015\Projects\TextAnalizer\TextAnalizer\obj\Debug\TextAnalizer.csprojResolveAssemblyReference.cache
+c:\users\айрон\documents\visual studio 2015\Projects\TextAnalizer\TextAnalizer\obj\Debug\TextAnalizer.TextAnalizer.resources
+c:\users\айрон\documents\visual studio 2015\Projects\TextAnalizer\TextAnalizer\obj\Debug\TextAnalizer.Properties.Resources.resources
+c:\users\айрон\documents\visual studio 2015\Projects\TextAnalizer\TextAnalizer\obj\Debug\TextAnalizer.csproj.GenerateResource.Cache
+c:\users\айрон\documents\visual studio 2015\Projects\TextAnalizer\TextAnalizer\obj\Debug\TextAnalizer.exe
+c:\users\айрон\documents\visual studio 2015\Projects\TextAnalizer\TextAnalizer\obj\Debug\TextAnalizer.pdb
